@@ -1,0 +1,16 @@
+name: RedstonePvP
+version: '1.0'
+main: dev.iimtsm.redstonepvp.RedstonePvP
+api-version: 1.16
+commands:
+  feature:
+    description: Prints all worlds.
+    usage: /<command>
+    permission: <plugin name>.basic
+    permission-message: You don't have <permission> an
+  features:
+    description: Prints all worlds.
+    usage: /<command>
+    permission: <plugin name>.basic
+    permission-message: You don't have <permission> an
+
